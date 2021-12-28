@@ -1,3 +1,2 @@
 # Server-Essentials
 Virtualisation Software Familiarisation, Install Windows Server Operating System, Manage DHCP, Manage DNS, Implement Active Directory, Create Administer Users Accounts, Manage Group Policy Object, Access To Shared Folder, install Printer Services, Configure Email Server In Windows Server 2003, hMailServer And Clients, SQL Server 2008 Express Installation, Database, web, ftp Server, Security Policy For System Account, Windows Backup Restore, Manage Performance Monitor and Schedule Task
-![image](https://user-images.githubusercontent.com/95500506/147537111-13c1bd3a-2a78-417a-8949-cc81e49d2f02.png)
